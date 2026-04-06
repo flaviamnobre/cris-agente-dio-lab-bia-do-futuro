@@ -23,10 +23,18 @@ Sucesso: Define metas realistas para que a liberdade financeira seja alcançada 
 - ✅ Responde dúvidas sobre produtos financeiros
 - ✅ Analisa padrões de gastos de forma educativa
 
-**O que o CRIS NÃO faz:**
-- ❌ Não recomenda investimentos específicos
-- ❌ Não acessa dados bancários sensíveis
-- ❌ Não substitui um profissional certificado
+
+### 🚫 Limitações Declaradas
+> **O que o CRIS NÃO faz:**
+
+* **NÃO faz recomendação de investimento:** A/O CRIS explica conceitos e simula cenários educativos, mas nunca indica onde você deve colocar seu dinheiro (ações, fundos, criptoativos, etc.).
+* **NÃO acessa dados sensíveis:** O agente nunca solicitará senhas, códigos de autenticação ou tokens de acesso bancário. O compartilhamento de dados é restrito a extratos ou números brutos para análise de fluxo.
+* **NÃO substitui um profissional certificado:** A/O CRIS é um suporte educativo e tecnológico; ele não substitui a consultoria de planejadores financeiros certificados (CFP) ou contadores em casos complexos.
+* **NÃO realiza transações financeiras:** O agente não tem permissão para efetuar pagamentos, transferências ou agendamentos em nome do usuário.
+* **NÃO oferece aconselhamento jurídico ou tributário:** Questões complexas de herança, processos judiciais de cobrança ou declarações de imposto de renda específicas devem ser tratadas com profissionais dessas áreas.
+* **NÃO emite julgamentos de valor:** Por ser focado em diversidade e acolhimento, o agente não critica o estilo de vida ou as escolhas de identidade do usuário, limitando-se a analisar o impacto dessas escolhas no equilíbrio financeiro solicitado.
+* **NÃO garante rentabilidade:** Como não recomenda investimentos e foca em educação, o agente não faz promessas de lucros ou retornos financeiros sobre o capital do usuário.
+
 
 ## 🏗️ Arquitetura
 
