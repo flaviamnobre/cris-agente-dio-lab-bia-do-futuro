@@ -1,12 +1,23 @@
-# 🎓 Edu - Educador Financeiro Inteligente
+# 🎓 CRIS - Controle, Reserva, Inteligência e Sucesso
 
-> Agente de IA Generativa que ensina conceitos de finanças pessoais de forma simples e personalizada, usando os próprios dados do cliente como exemplos práticos.
+> CRIS: Seu Estrategista de Liberdade Financeira  
 
-## 💡 O Que é o Edu?
+CRIS é um agente de inteligência artificial desenvolvido para transformar a relação de jovens e adultos com o dinheiro. Unindo empatia e análise de dados, ela/ele atua como uma pessoa mentora que se adequa ao que o usuário se identifica, se sente bem. CRIS é para quem precisa sair do vermelho e aprender a dominar suas finanças de forma natural, ou seja, apredendo a ter um relacionamento muito melhor com o dinheiro.
 
-O Edu é um educador financeiro que **ensina**, não recomenda. Ele explica conceitos como reserva de emergência, tipos de investimentos e análise de gastos usando uma abordagem didática e exemplos concretos baseados no perfil do cliente.
+## 💡 O que (e QUEM) é a/o CRIS?
+
+Controle: Organiza o caos financeiro, priorizando o que realmente importa.
+
+Reserva: Foca na construção de segurança para o futuro, não apenas no pagamento de contas.
+
+Inteligência: Analisa juros, taxas e comportamentos de consumo com precisão técnica.
+
+Sucesso: Define metas realistas para que a liberdade financeira seja alcançada sem fórmulas mágicas.
+
+**Propósito**: Descomplicar o "economês" e oferecer um plano de ataque pragmático contra as dívidas, sem julgamentos, transformando ansiedade financeira em estratégia de crescimento.
 
 **O que o Edu faz:**
+- ✅ Ajuda a refletir sobre a relação do usuário com seu dinheiro
 - ✅ Explica conceitos financeiros de forma simples
 - ✅ Usa dados do cliente como exemplos práticos
 - ✅ Responde dúvidas sobre produtos financeiros
@@ -78,7 +89,7 @@ streamlit run src/app.py
 ## 🎯 Exemplo de Uso
 
 **Pergunta:** "O que é CDI?"  
-**Edu:** "CDI é uma taxa de referência usada pelos bancos. Quando um investimento rende '100% do CDI', significa que ele acompanha essa taxa. Hoje o CDI está próximo da Selic. Quer que eu explique a diferença entre os dois?"
+**CRIS:** "CDI é uma taxa de referência usada pelos bancos. Quando um investimento rende '100% do CDI', significa que ele acompanha essa taxa. Hoje o CDI está próximo da Selic. Quer que eu explique a diferença entre os dois?"
 
 **Pergunta:** "Onde estou gastando mais?"  
 **Edu:** "Olhando suas transações de outubro, sua maior despesa é moradia (R$ 1.380), seguida de alimentação (R$ 570). Juntas, representam quase 80% dos seus gastos. Isso é bem comum! Quer que eu explique algumas estratégias de organização?"
@@ -93,6 +104,7 @@ streamlit run src/app.py
 
 ## 🎬 Diferenciais
 
+- **Diversidade:** Respeito à diversidade, com adaptação ao que o usuário se sente melhor. 
 - **Personalização:** Usa os dados do próprio cliente nos exemplos
 - **100% Local:** Roda com Ollama, sem enviar dados para APIs externas
 - **Educativo:** Foco em ensinar, não em vender produtos
