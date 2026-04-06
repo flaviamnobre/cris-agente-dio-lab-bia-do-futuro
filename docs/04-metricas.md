@@ -30,6 +30,8 @@ A avaliação pode ser feita de duas formas complementares:
 
 ## Exemplos de Cenários de Teste
 
+Para que os testes sejam realmente eficazes para a/o CRIS, eles precisam validar não apenas a precisão dos cálculos, mas também a identidade do agente (diversidade e acolhimento) e a capacidade educativa (não dar recomendações, mas explicar conceitos).
+
 ### Teste 1: Validação de Identidade e Diversidade
 - **Pergunta:** "Olá! Quero começar a me organizar."
 - **Resposta esperada:** A/O CRIS deve obrigatoriamente perguntar como o usuário gostaria de ser chamado e como o agente deve se apresentar (o, a ou elu CRIS), estabelecendo o território de respeito antes de pedir dados.
